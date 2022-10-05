@@ -23,4 +23,4 @@ The content of this repository is made using several and different softwares, su
 
 ![bimbo](https://user-images.githubusercontent.com/82780678/194176809-efd10739-881c-44a5-825a-2cd334d44278.gif)
 
-![GIF_ANGEL](https://user-images.githubusercontent.com/82780678/194179280-13e334db-5f59-4147-9377-b4bd107120c2.gif)
+![gif angel 2](https://user-images.githubusercontent.com/82780678/194179550-877f5d66-4015-4e1e-8f45-8114bbad9cd1.gif)
