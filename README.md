@@ -17,7 +17,5 @@ The content of this repository is made using several and different softwares, su
 ... and others
 
 
-
-](https://github.com/MarcelloAmmendolia/VJ_FUTURA-1) #FUTURA UNO
 [Futura - 1](https://github.com/MarcelloAmmendolia/VJ_FUTURA-1)
 
