@@ -23,6 +23,7 @@ The content of this repository is made using several and different softwares, su
 
 ![bimbo](https://user-images.githubusercontent.com/82780678/194176809-efd10739-881c-44a5-825a-2cd334d44278.gif)
 
+![head 2](https://user-images.githubusercontent.com/82780678/194179876-385819f0-e93e-4078-b0c2-2ebd906a3f8d.gif)
+
 ![gif angel 2](https://user-images.githubusercontent.com/82780678/194179550-877f5d66-4015-4e1e-8f45-8114bbad9cd1.gif)
 
-![head 2](https://user-images.githubusercontent.com/82780678/194179876-385819f0-e93e-4078-b0c2-2ebd906a3f8d.gif)
