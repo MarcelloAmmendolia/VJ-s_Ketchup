@@ -16,7 +16,6 @@ The content of this repository is made using several and different softwares, su
 
 ... and others
 
-![GIF_ANGEL](https://user-images.githubusercontent.com/82780678/194179280-13e334db-5f59-4147-9377-b4bd107120c2.gif)
 
 ![MAD ASCII FINALE](https://user-images.githubusercontent.com/82780678/194174430-12cfc795-48c7-4305-9596-7b13957ef6ac.gif)
 
@@ -24,3 +23,4 @@ The content of this repository is made using several and different softwares, su
 
 ![bimbo](https://user-images.githubusercontent.com/82780678/194176809-efd10739-881c-44a5-825a-2cd334d44278.gif)
 
+![GIF_ANGEL](https://user-images.githubusercontent.com/82780678/194179280-13e334db-5f59-4147-9377-b4bd107120c2.gif)
