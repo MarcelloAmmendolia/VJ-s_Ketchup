@@ -3,9 +3,9 @@ All the extract are taken in realtime and are presented here without any postpro
 
 3D SERIE:
 
-[Futura - 1](https://github.com/MarcelloAmmendolia/VJ_FUTURA-1)
+[Futura - 1](https://github.com/MarcelloAmmendolia/VJ_FUTURA-1) - Classical (#3D models, #light, #generative)
 
 AI SERIE: <br/>
 
-[Latent walk - 3](https://github.com/MarcelloAmmendolia/VJ_Latent_walk_3) - Unlinear #abstract #patterns #latentwalk
+[Latent walk - 3](https://github.com/MarcelloAmmendolia/VJ_Latent_walk_3) - Unlinear (#abstract, #patterns)
 
